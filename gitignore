@@ -1,0 +1,15 @@
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# macOS
+.DS_Store
